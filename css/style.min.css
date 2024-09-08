@@ -814,7 +814,8 @@ h3 {
     overflow: hidden;
     position: relative;
     box-shadow: 0px 3px 10px 0px rgba(23, 33, 42, .47) !important;
-    transition: all .5s ease
+    transition: all .5s ease;
+    margin-top: 20px;
 }
 
 .btn-sm {
